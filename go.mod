@@ -1,1 +1,1 @@
-module github.com/lithammer/fuzzysearch
+module fuzzysearch
